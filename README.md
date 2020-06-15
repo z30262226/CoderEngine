@@ -25,13 +25,3 @@ ImageEngine will creat a `ImageFactory.switf` in your project. like this 👇
 
 
 
-# Thanks
-
-[KuoChingHao](https://github.com/KuoChingHao)
-
-***
-
-
-
-[My website](https://www.ohlulu.tw)
-
