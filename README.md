@@ -15,7 +15,7 @@
 5.  Build.
 6.  Open finder and go to your project.
 7.  Drop Image ImageFactory.swift to your project. (uncheck "copy items if needed")
-8.  Enjoy it!
+8.  Enjoy it! 👍
 
 
 
